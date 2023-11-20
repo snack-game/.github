@@ -33,3 +33,4 @@
 | 김희수 | 박성철 |
 | 기획, FE, 게임 개발 | 기획, BE |
 
+함께하고 싶으신가요? [admin@snackga.me](mailto:admin@snackga.me)으로 연락해주세요!
