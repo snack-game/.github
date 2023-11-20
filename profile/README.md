@@ -26,3 +26,10 @@
 [<kbd> <br> FE Repository <br> </kbd>][FE]  
 
 [<kbd> <br> BE Repository <br> </kbd>][BE]  
+
+## 구성원
+| ![](https://avatars.githubusercontent.com/u/16986867?s=128)  |  ![](https://avatars.githubusercontent.com/u/39221443?s=128) |
+|---|---|
+| 김희수 | 박성철 |
+| 기획, FE, 게임 개발 | 기획, BE |
+
