@@ -31,7 +31,7 @@
 ## 구성원
 > [!NOTE]
 > 저희와 함께해요!   
-> 저희에게 자기소개를 보내주세요. 재미있는 아이디어도 환영입니다   
+> 저희에게 자기소개를 보내주세요. 재미있는 아이디어도 환영입니다!  
 > → [admin@snackga.me](mailto:admin@snackga.me)
 
 | ![](https://avatars.githubusercontent.com/u/16986867?s=128)  |  ![](https://avatars.githubusercontent.com/u/39221443?s=128) |
