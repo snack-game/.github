@@ -12,9 +12,9 @@
 [<kbd> <br> 지금 시작하기 🍿 <br> </kbd>][Service]  
 
 ## 소개
-간단한 게임 및 사용자 간 경쟁을 즐길 수 있는 서비스입니다.
+간단한 게임과 사용자 간 경쟁을 즐길 수 있는 서비스입니다.
 
-짧은 플레이 타임으로도 확실한 즐거움을 제공하는 것이 우리의 목표입니다.
+짧은 플레이로 확실한 즐거움을 제공하는 것이 우리의 목표입니다.
 
 ## 링크
 
@@ -29,9 +29,12 @@
 [<kbd> <br> BE Repository <br> </kbd>][BE]  
 
 ## 구성원
+> [!NOTE]
+> 저희와 함께해요!   
+> 저희에게 자기소개를 보내주세요. 재미있는 아이디어도 환영입니다   
+> → [admin@snackga.me](mailto:admin@snackga.me)
+
 | ![](https://avatars.githubusercontent.com/u/16986867?s=128)  |  ![](https://avatars.githubusercontent.com/u/39221443?s=128) |
 |---|---|
 | 김희수 | 박성철 |
 | 기획, FE, 게임 개발 | 기획, BE |
-
-함께하고 싶으신가요? [admin@snackga.me](mailto:admin@snackga.me)으로 연락해주세요!
