@@ -18,7 +18,7 @@
 
 ## 링크
 
-[Blog]: https://jumbled-droplet-70f.notion.site/f3aa70fb65624792bd4ed7ecdb082aff
+[Blog]: https://blog.snackga.me
 [FE]: https://github.com/snack-game/front
 [BE]: https://github.com/snack-game/server
 
