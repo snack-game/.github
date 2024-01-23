@@ -35,9 +35,9 @@
 > 스낵게임은 사용자에게 가치를 전달하는 것을 최우선으로 생각해요.  
 > 이 여정을 함께 즐기며 성장하실 분을 찾고 있어요.
 > 
-> [<kbd> <br> 함께하기 🗳️ <br> </kbd>][Apply] 
+> [<kbd> <br> 함께하기 🗳️ <br> </kbd>][Apply]
 
-| ![](https://avatars.githubusercontent.com/u/16986867?s=128)  |  ![](https://avatars.githubusercontent.com/u/39221443?s=128) |
-|---|---|
-| 김희수 | 박성철 |
-| 기획, FE, 게임 개발 | 기획, BE |
+| ![](https://avatars.githubusercontent.com/u/16986867?s=128)  |  ![](https://avatars.githubusercontent.com/u/39221443?s=128) | ![](https://avatars.githubusercontent.com/u/122357140?s=128) | ![](https://avatars.githubusercontent.com/u/87255462?s=128) |
+|---|---|---|---|
+| 김희수 | 박성철 | 박정환 | 이유진 |
+| 기획, FE, 게임 개발 | 기획, BE | 기획, BE | 기획, FE |
